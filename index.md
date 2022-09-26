@@ -12,7 +12,7 @@ Aspiring data scientist with extensive construction and management history.  Int
 <img src="images/skills_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](https://github.com/JustOneByteAtATime/justonebyteatatime.github.io/blob/master/pdf/resume.pdf)
+[Resume](https://github.com/JustOneByteAtATime/justonebyteatatime.github.io/blob/master/pdf/resume.pdf)
 <img src="images/resume_thumbnail.jpg?raw=true"/>
 
 ---
