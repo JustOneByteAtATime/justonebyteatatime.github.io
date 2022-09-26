@@ -4,14 +4,15 @@ Aspiring data scientist with extensive construction and management history.  Int
 
 ### How I can help your team
 
-[Experience]
-<a href="justonebyteatatime.github.io/pdfs/experience_list.pdf" target="_blank">PDF.</a>
+Experience
+<object data="justonebyteatatime.github.io/pdfs/experience_list.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 ---
-[Skills]
+Skills
 <a href="justonebyteatatime.github.io/pdfs/skills_list.pdf" target="_blank">PDF.</a>
 
 ---
-[Resume]
+Resume
 <a href="justonebyteatatime.github.io/pdfs/skills_list.pdf" target="_blank">PDF.</a>
 
 ---
