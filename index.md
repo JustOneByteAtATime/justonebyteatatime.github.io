@@ -2,7 +2,7 @@
 Aspiring data scientist with extensive construction and management history.  Intuitive data insight catered toward meeting stakeholders needs.  Experience with agile and scrum workflow environments.
 ---
 
-### Experience 
+### How I can help your team
 
 [Experience](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@ Aspiring data scientist with extensive construction and management history.  Int
 
 ---
 
-### Category Name 2
+### Projects and Highlights
 
 - [NodeCode Web App](https://nodecodegroup.herokuapp.com/)
 - [Project 2 Title](http://example.com/)
