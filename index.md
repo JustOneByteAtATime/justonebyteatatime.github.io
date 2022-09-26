@@ -5,15 +5,15 @@ Aspiring data scientist with extensive construction and management history.  Int
 ### How I Can Help Your Team
 
 [Experience](https://github.com/JustOneByteAtATime/justonebyteatatime.github.io/blob/master/pdf/experience_list.pdf)
-<img src="images/experience_thumbnail.jpg?raw=true"/>
+<img src="images/experience_thumbnail.png?raw=true"/>
 
 ---
 [Skills](https://github.com/JustOneByteAtATime/justonebyteatatime.github.io/blob/master/pdf/skills_list.pdf)
-<img src="images/skills_thumbnail.jpg?raw=true"/>
+<img src="images/skills_thumbnail.png?raw=true"/>
 
 ---
 [Resume](https://github.com/JustOneByteAtATime/justonebyteatatime.github.io/blob/master/pdf/resume.pdf)
-<img src="images/resume_thumbnail.jpg?raw=true"/>
+<img src="images/resume_thumbnail.png?raw=true"/>
 
 ---
 
