@@ -1,9 +1,11 @@
 ## About me:
 Aspiring data scientist with extensive construction and management history.  Intuitive data insight catered toward meeting stakeholders needs.  Experience with agile and scrum workflow environments.
+
 ---
 
 ### How I Can Help Your Team
 
+---
 [Experience](https://github.com/JustOneByteAtATime/justonebyteatatime.github.io/blob/master/pdf/experience_list.pdf)
 <img src="images/experience_thumbnail.PNG?raw=true"/>
 
@@ -16,7 +18,6 @@ Aspiring data scientist with extensive construction and management history.  Int
 <img src="images/resume_thumbnail.PNG?raw=true"/>
 
 ---
-
 ### Projects and Personal Highlights
 
 - [NodeCode Web App](https://nodecodegroup.herokuapp.com/)
