@@ -4,15 +4,14 @@ Aspiring data scientist with extensive construction and management history.  Int
 
 ### How I can help your team
 
-[Experience](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Experience](/pdf/MN Experience for E-Portfolio.pdf)
+<a href="/pdfs/MN Experience for E-Portfolio.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+---
+[Skills](/pdf/Experience List.pdf)
+<a href="/pdfs/Experience List.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 ---
-[Skills](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Resume](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
