@@ -6,5 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/mike-nelson-problem-solver/">View My LinkedIn Profile</a> 
+  <br>
+  <a href="mailto:estimatingnorthwest@gmail.com">Email Me</a>
+  <a href="https://www.linkedin.com/in/mike-nelson-problem-solver/">View My LinkedIn Profile</a>
+  Mobile Phone: 406-540-2828
   
 theme: jekyll-theme-minimal
