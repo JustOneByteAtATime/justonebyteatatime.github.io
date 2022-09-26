@@ -10,5 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="mailto:estimatingnorthwest@gmail.com">Email Me</a>
   <br>
   Mobile Phone: 406-540-2828
-  
+  <br><br>
 theme: jekyll-theme-minimal
