@@ -5,29 +5,24 @@ Aspiring data scientist with extensive construction and management history.  Int
 ### How I can help your team
 
 Experience
-<embed src="https://justonebyteatatime.github.io/experience_list.pdf" type="application/pdf" />
----
-Skills
-<embed src="https://justonebyteatatime.github.io/skills_list.pdf" type="application/pdf" />
+
+[Experience](https://github.com/JustOneByteAtATime/justonebyteatatime.github.io/blob/master/pdf/experience_list.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-Resume
-<embed src="https://justonebyteatatime.github.io/resume.pdf" type="application/pdf" />
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Projects and Highlights
+### Category Name 2
 
-- [NodeCode Web App](https://nodecodegroup.herokuapp.com/)
+- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">
