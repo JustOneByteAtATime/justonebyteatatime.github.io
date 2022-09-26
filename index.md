@@ -1,5 +1,5 @@
-## Portfolio
-
+## About me:
+Aspiring data scientist with extensive construction and management history.  Intuitive data insight catered toward meeting stakeholders needs.  Experience with agile and scrum workflow environments.
 ---
 
 ### Category Name 1 
