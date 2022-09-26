@@ -8,11 +8,11 @@ Experience
 <embed src="https://justonebyteatatime.github.io/experience_list.pdf" type="application/pdf" />
 ---
 Skills
-<a href="justonebyteatatime.github.io/pdfs/skills_list.pdf" target="_blank">PDF.</a>
+<embed src="https://justonebyteatatime.github.io/skills_list.pdf" type="application/pdf" />
 
 ---
 Resume
-<a href="justonebyteatatime.github.io/pdfs/skills_list.pdf" target="_blank">PDF.</a>
+<embed src="https://justonebyteatatime.github.io/resume.pdf" type="application/pdf" />
 
 ---
 
